@@ -12,4 +12,4 @@ public class TeamTarget : TargetRules
 		IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_5;
 		ExtraModuleNames.Add("Team");
 	}
-}
+}    
